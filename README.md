@@ -9,6 +9,8 @@ jumper wires,
 
 ![smart dustbin sonar sensor](https://user-images.githubusercontent.com/75447439/108835246-39acdf00-75f5-11eb-9cb5-8f54a2800583.jpg)
 
+![servo dustbin](https://user-images.githubusercontent.com/75447439/108835605-b8a21780-75f5-11eb-8cdb-8d260558f0a5.jpg)
+
 
 
 
