@@ -11,7 +11,8 @@ jumper wires,
 
 ![servo dustbin](https://user-images.githubusercontent.com/75447439/108835605-b8a21780-75f5-11eb-8cdb-8d260558f0a5.jpg)
 
-
+![smart dustbin1](https://user-images.githubusercontent.com/75447439/108837371-24857f80-75f8-11eb-8d69-f883a302c5fd.jpg)
+![smart dustbin2](https://user-images.githubusercontent.com/75447439/108837378-28190680-75f8-11eb-8ab9-f9f6bdb47f13.jpg)
 
 
 
